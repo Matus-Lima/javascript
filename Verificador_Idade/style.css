@@ -1,0 +1,57 @@
+header{
+    color:white;
+    text-align: center;
+    background-color: #034C8C;
+    width: 500px;
+    margin:auto;
+    border-radius: 30px;
+    
+    
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url(/imagens/Fundo.jpg);
+    color:rgb(255, 255, 255);
+    text-align: center;
+  
+    
+    
+
+}
+
+section{
+    background-color: #034C8C;
+    border-radius: 30px;
+    padding: 10px;
+    width: 500px;
+    margin:auto;
+    box-shadow:2px -3px 12px #3187ed;
+    border: solid 1px #034C8C;
+    
+
+}
+
+footer{
+    font-style: italic;
+    
+
+}
+#foto{
+   
+}
+
+#botao{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(57, 148, 209);
+    border-radius: 10px;
+   
+}
+
+#botao:hover {
+    color:white;
+    background-color: rgb(73, 51, 153);
+    border-radius: 10px;
+
+
+}

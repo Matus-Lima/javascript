@@ -1,0 +1,40 @@
+header{
+    color:rgb(181, 201, 8);
+    text-align: center;
+    width: 500px;
+    margin:auto;
+    border-radius: 30px;
+}
+
+body{
+    
+    background-color: #010D26;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-family: 'Shojumaru', cursive;
+    
+
+}
+
+section{
+    
+    background-color: #295E73;
+   
+    border-radius: 30px;
+    padding: 10px;
+    width: 500px;
+    margin:auto;
+    
+    
+
+}
+
+footer{
+    font-style: italic;
+    color: #eef2f7;
+    
+
+}
+#foto{
+   
+}
